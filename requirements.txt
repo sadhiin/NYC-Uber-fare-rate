@@ -15,3 +15,5 @@ shapely
 geopy
 plotly
 nbformat
+imblearn
+xgboost
